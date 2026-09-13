@@ -1,0 +1,121 @@
+﻿item;coditem;scale;pole;txt_item;ordem;gemini_fator;gemini_faceta
+i1;bf_br1;E_soc;1;Eu gosto de estar na companhia de outras pessoas.;1;Extroversão;Sociabilidade
+i2;bf_br2;E_soc;1;Conversar com estranhos não me deixa desconfortável.;2;Extroversão;Sociabilidade
+i3;bf_br3;E_soc;1;Eu me sinto energizado quando estou em um grupo social.;3;Extroversão;Nível de Energia
+i4;bf_br4;E_soc;1;Às vezes, prefiro sair e conhecer novas pessoas a ficar em casa.;4;Extroversão;Sociabilidade
+i5;bf_br5;E_soc;1;Fazer novos amigos é algo que eu faço facilmente.;5;Extroversão;Sociabilidade
+i6;bf_br6;E_soc;1;Gosto de festas e eventos sociais.;6;Extroversão;Sociabilidade
+i7;bf_br7;E_soc;1;Passar tempo com amigos é uma parte importante da minha vida.;7;Extroversão;Sociabilidade
+i8;bf_br8;E_soc;1;Às vezes, sinto que preciso estar rodeado de pessoas para me sentir bem.;8;Extroversão;Sociabilidade
+i9;bf_br9;E_ass;1;Eu não tenho medo de expressar minha opinião.;9;Extroversão;Assertividade
+i10;bf_br10;E_ass;1;Se eu quero algo, vou atrás e tento conseguir.;10;Extroversão;Assertividade
+i11;bf_br11;E_ass;1;Eu sou bom em tomar decisões rapidamente.;11;Extroversão;Assertividade
+i12;bf_br12;E_ass;1;Não tenho problemas em pedir o que preciso aos outros.;12;Extroversão;Assertividade
+i13;bf_br13;E_ass;1;Às vezes, sou visto como alguém muito direto.;13;Extroversão;Assertividade
+i14;bf_br14;E_ass;1;Gosto de liderar e assumir o controle em situações de grupo.;14;Extroversão;Assertividade
+i15;bf_br15;E_ass;1;Quando discordo de algo, não hesito em falar.;15;Extroversão;Assertividade
+i16;bf_br16;E_ass;1;Raramente hesito em iniciar uma conversa ou interação com estranhos.;16;Extroversão;Sociabilidade
+i17;bf_br17;E_ene;1;Eu tenho energia de sobra durante o dia.;17;Extroversão;Nível de Energia
+i18;bf_br18;E_ene;1;Às vezes, tenho dificuldade para ficar parado por muito tempo.;18;Extroversão;Nível de Energia
+i19;bf_br19;E_ene;1;Eu me sinto mais ativo durante o dia do que à noite.;19;Extroversão;Nível de Energia
+i20;bf_br20;E_ene;1;Gosto de me envolver em atividades físicas e esportivas.;20;Extroversão;Nível de Energia
+i21;bf_br21;E_ene;1;Às vezes, fico ansioso se não tiver algo para fazer.;21;Neuroticismo;Ansiedade
+i22;bf_br22;E_ene;1;Sou conhecido por ser alguém agitado.;22;Extroversão;Nível de Energia
+i23;bf_br23;E_ene;1;Ficar parado me deixa entediado.;23;Extroversão;Nível de Energia
+i24;bf_br24;E_ene;1;Mesmo após um dia agitado, ainda tenho disposição para fazer mais coisas.;24;Extroversão;Nível de Energia
+i25;bf_br25;A_com;1;Eu costumo me preocupar com os sentimentos dos outros.;25;Amabilidade;Compaixão
+i26;bf_br26;A_com;1;Gosto de ajudar as pessoas quando elas estão passando por dificuldades.;26;Amabilidade;Compaixão
+i27;bf_br27;A_com;1;Fico triste quando vejo alguém sofrer.;27;Amabilidade;Compaixão
+i28;bf_br28;A_com;1;Sempre tento ser solidário com amigos e familiares.;28;Amabilidade;Compaixão
+i29;bf_br29;A_com;1;Tenho facilidade em demonstrar empatia pelos outros.;29;Amabilidade;Compaixão
+i30;bf_br30;A_com;1;Às vezes, coloco as necessidades dos outros antes das minhas.;30;Amabilidade;Compaixão
+i31;bf_br31;A_com;1;Ajudar os outros me faz sentir bem comigo mesmo.;31;Amabilidade;Compaixão
+i32;bf_br32;A_com;1;Fico feliz quando posso fazer algo de bom para alguém.;32;Amabilidade;Compaixão
+i33;bf_br33;A_res;1;Acredito que todos merecem ser tratados com dignidade.;33;Amabilidade;Respeito
+i34;bf_br34;A_res;1;Sempre tento ser educado e respeitoso com os outros.;34;Amabilidade;Respeito
+i35;bf_br35;A_res;1;Não gosto de falar mal de ninguém.;35;Amabilidade;Respeito
+i36;bf_br36;A_res;1;Procuro ouvir as opiniões dos outros, mesmo se não concordo.;36;Amabilidade;Respeito
+i37;bf_br37;A_res;1;Evito julgar as pessoas com base em aparências.;37;Amabilidade;Respeito
+i38;bf_br38;A_res;1;Respeitar os outros é importante para mim.;38;Amabilidade;Respeito
+i39;bf_br39;A_res;1;Acredito que devemos tratar as pessoas com bondade.;39;Amabilidade;Compaixão
+i40;bf_br40;A_res;1;Sempre tento ser justo e imparcial em meus julgamentos.;40;Conscienciosidade;Responsabilidade
+i41;bf_br41;A_con;1;Geralmente acredito nas boas intenções das pessoas.;41;Amabilidade;Confiança
+i42;bf_br42;A_con;1;Acredito que a maioria das pessoas é honesta e confiável.;42;Amabilidade;Confiança
+i43;bf_br43;A_con;1;Costumo confiar nas palavras das pessoas até que provem o contrário.;43;Amabilidade;Confiança
+i44;bf_br44;A_con;1;Gosto de pensar bem dos outros, a menos que haja razões para não fazê-lo.;44;Amabilidade;Confiança
+i45;bf_br45;A_con;1;Sou alguém que acredita nas promessas dos outros.;45;Amabilidade;Confiança
+i46;bf_br46;A_con;1;Geralmente dou o benefício da dúvida às pessoas.;46;Amabilidade;Confiança
+i47;bf_br47;A_con;1;Acredito que a confiança é fundamental em qualquer relacionamento.;47;Amabilidade;Confiança
+i48;bf_br48;A_con;1;Raramente questiono as intenções dos outros, a menos que haja evidências claras do contrário.;48;Amabilidade;Confiança
+i49;bf_br49;C_org;1;Eu gosto de manter as coisas em ordem e arrumadas.;49;Conscienciosidade;Organização
+i50;bf_br50;C_org;1;Tenho o hábito de fazer listas para me lembrar das tarefas.;50;Conscienciosidade;Organização
+i51;bf_br51;C_org;1;Eu costumo separar meu tempo para diferentes atividades.;51;Conscienciosidade;Organização
+i52;bf_br52;C_org;1;Manter meu espaço de trabalho organizado é importante para mim.;52;Conscienciosidade;Organização
+i53;bf_br53;C_org;1;Evito deixar coisas espalhadas e desorganizadas.;53;Conscienciosidade;Organização
+i54;bf_br54;C_org;1;Planejar com antecedência é algo que faço regularmente.;54;Conscienciosidade;Organização
+i55;bf_br55;C_org;1;Gosto de saber onde estão todas as minhas coisas.;55;Conscienciosidade;Organização
+i56;bf_br56;C_org;1;Sempre tento criar sistemas para facilitar minha vida.;56;Conscienciosidade;Organização
+i57;bf_br57;C_pro;1;Gosto de me manter ocupado e fazer as coisas.;57;Conscienciosidade;Produtividade
+i58;bf_br58;C_pro;1;Sou eficiente na realização de tarefas.;58;Conscienciosidade;Produtividade
+i59;bf_br59;C_pro;1;Gosto de definir metas e objetivos para mim mesmo.;59;Conscienciosidade;Produtividade
+i60;bf_br60;C_pro;1;Costumo terminar o que começo.;60;Conscienciosidade;Responsabilidade
+i61;bf_br61;C_pro;1;Eu me esforço para aproveitar ao máximo o meu tempo.;61;Conscienciosidade;Produtividade
+i62;bf_br62;C_pro;1;Gosto de ser produtivo e realizar muitas coisas em um dia.;62;Conscienciosidade;Produtividade
+i63;bf_br63;C_pro;1;Faço um esforço constante para concluir minhas tarefas a tempo.;63;Conscienciosidade;Responsabilidade
+i64;bf_br64;C_pro;1;Planejo minha agenda para aproveitar ao máximo o meu dia, evitando deixar tempo ocioso.;64;Conscienciosidade;Organização
+i65;bf_br65;C_res;1;Eu cumpro meus compromissos e promessas.;65;Conscienciosidade;Responsabilidade
+i66;bf_br66;C_res;1;Levo a sério as tarefas que me são confiadas.;66;Conscienciosidade;Responsabilidade
+i67;bf_br67;C_res;1;Se cometo um erro, assumo a responsabilidade por ele.;67;Conscienciosidade;Responsabilidade
+i68;bf_br68;C_res;1;Gosto de ser confiável e alguém em quem os outros podem contar.;68;Conscienciosidade;Responsabilidade
+i69;bf_br69;C_res;1;Evito adiar ou procrastinar as coisas.;69;Conscienciosidade;Produtividade
+i70;bf_br70;C_res;1;Preocupo-me em fazer as coisas da maneira certa.;70;Conscienciosidade;Responsabilidade
+i71;bf_br71;C_res;1;Sempre tento fazer o que é esperado de mim.;71;Conscienciosidade;Responsabilidade
+i72;bf_br72;C_res;1;Sou uma pessoa que se esforça para manter as coisas sob controle.;72;Conscienciosidade;Organização
+i73;bf_br73;N_ans;1;Às vezes, me preocupo muito com coisas que podem dar errado.;73;Neuroticismo;Ansiedade
+i74;bf_br74;N_ans;1;Fico inquieto com frequência, como se algo ruim estivesse prestes a acontecer.;74;Neuroticismo;Ansiedade
+i75;bf_br75;N_ans;1;Sinto-me tenso e nervoso em situações de estresse.;75;Neuroticismo;Ansiedade
+i76;bf_br76;N_ans;1;Tenho dificuldade em relaxar quando estou preocupado.;76;Neuroticismo;Ansiedade
+i77;bf_br77;N_ans;1;Às vezes, me sinto sobrecarregado pelas minhas preocupações.;77;Neuroticismo;Ansiedade
+i78;bf_br78;N_ans;1;Preocupo-me demais com o que os outros pensam de mim.;78;Neuroticismo;Ansiedade
+i79;bf_br79;N_ans;1;Em certas situações, tenho medo irracional.;79;Neuroticismo;Ansiedade
+i80;bf_br80;N_ans;1;Raramente consigo parar de pensar nas coisas que me preocupam.;80;Neuroticismo;Ansiedade
+i81;bf_br81;N_dep;1;Sinto-me triste e desanimado com frequência.;81;Neuroticismo;Depressão
+i82;bf_br82;N_dep;1;Às vezes, tenho dificuldade em encontrar alegria nas coisas que costumava gostar.;82;Neuroticismo;Depressão
+i83;bf_br83;N_dep;1;Fico desanimado mesmo quando não há razão aparente para isso.;83;Neuroticismo;Depressão
+i84;bf_br84;N_dep;1;Às vezes, sinto que não tenho energia para fazer as coisas.;84;Neuroticismo;Depressão
+i85;bf_br85;N_dep;1;Tenho pensamentos negativos sobre mim mesmo.;85;Neuroticismo;Depressão
+i86;bf_br86;N_dep;1;Raramente me sinto motivado ou esperançoso em relação ao futuro.;86;Neuroticismo;Depressão
+i87;bf_br87;N_dep;1;Às vezes, me sinto vazio por dentro.;87;Neuroticismo;Depressão
+i88;bf_br88;N_dep;1;A vida parece pesada e sem sentido em certos momentos.;88;Neuroticismo;Depressão
+i89;bf_br89;N_lab;1;Minhas emoções podem mudar rapidamente.;89;Neuroticismo;Labilidade Emocional
+i90;bf_br90;N_lab;1;Tenho dificuldade em controlar minhas reações emocionais.;90;Neuroticismo;Labilidade Emocional
+i91;bf_br91;N_lab;1;Às vezes, passo de um extremo emocional para outro em pouco tempo.;91;Neuroticismo;Labilidade Emocional
+i92;bf_br92;N_lab;1;Pequenas coisas podem me deixar muito chateado.;92;Neuroticismo;Labilidade Emocional
+i93;bf_br93;N_lab;1;Fico facilmente emocionado, mesmo em situações cotidianas.;93;Neuroticismo;Labilidade Emocional
+i94;bf_br94;N_lab;1;Às vezes, sinto que minhas emoções estão fora do meu controle.;94;Neuroticismo;Labilidade Emocional
+i95;bf_br95;N_lab;1;Tenho oscilações emocionais frequentes.;95;Neuroticismo;Labilidade Emocional
+i96;bf_br96;N_lab;1;Raramente consigo manter a calma quando algo me afeta emocionalmente.;96;Neuroticismo;Labilidade Emocional
+i97;bf_br97;O_cur;1;Gosto de aprender coisas novas sempre que posso.;97;Abertura;Curiosidade Intelectual
+i98;bf_br98;O_cur;1;Fico interessado em descobrir como as coisas funcionam.;98;Abertura;Curiosidade Intelectual
+i99;bf_br99;O_cur;1;Sempre estou procurando aprender algo que me desafie intelectualmente.;99;Abertura;Curiosidade Intelectual
+i100;bf_br100;O_cur;1;Gosto de explorar novos conceitos e ideias.;100;Abertura;Curiosidade Intelectual
+i101;bf_br101;O_cur;1;Sinto-me atraído por livros e programas que ampliem meus horizontes.;101;Abertura;Curiosidade Intelectual
+i102;bf_br102;O_cur;1;Às vezes, faço perguntas profundas sobre o mundo ao meu redor.;102;Abertura;Curiosidade Intelectual
+i103;bf_br103;O_cur;1;Fico intrigado com enigmas e questões complexas.;103;Abertura;Curiosidade Intelectual
+i104;bf_br104;O_cur;1;Gosto de pensar sobre o significado mais profundo das coisas.;104;Abertura;Curiosidade Intelectual
+i105;bf_br105;O_sen;1;Costumo apreciar a beleza em obras de arte e na natureza.;105;Abertura;Sensibilidade Estética
+i106;bf_br106;O_sen;1;Tenho um gosto refinado para coisas estéticas.;106;Abertura;Sensibilidade Estética
+i107;bf_br107;O_sen;1;Gosto de criar um ambiente agradável e bonito ao meu redor.;107;Abertura;Sensibilidade Estética
+i108;bf_br108;O_sen;1;Sinto-me tocado pela música, arte e paisagens bonitas.;108;Abertura;Sensibilidade Estética
+i109;bf_br109;O_sen;1;Às vezes, perco tempo apreciando detalhes bonitos nas coisas.;109;Abertura;Sensibilidade Estética
+i110;bf_br110;O_sen;1;Gosto de visitar museus e exposições de arte.;110;Abertura;Sensibilidade Estética
+i111;bf_br111;O_sen;1;A estética é importante para mim em minha vida diária.;111;Abertura;Sensibilidade Estética
+i112;bf_br112;O_sen;1;Tenho um olho para detalhes que tornam as coisas mais bonitas.;112;Abertura;Sensibilidade Estética
+i113;bf_br113;O_ima;1;Gosto de inventar novas maneiras de fazer as coisas.;113;Abertura;Imaginação Criativa
+i114;bf_br114;O_ima;1;Às vezes, minha mente vagueia em mundos de imaginação.;114;Abertura;Imaginação Criativa
+i115;bf_br115;O_ima;1;Costumo encontrar soluções criativas para os problemas.;115;Abertura;Imaginação Criativa
+i116;bf_br116;O_ima;1;Gosto de criar histórias e cenários em minha mente.;116;Abertura;Imaginação Criativa
+i117;bf_br117;O_ima;1;Tenho uma imaginação fértil e vívida.;117;Abertura;Imaginação Criativa
+i118;bf_br118;O_ima;1;Às vezes, perco-me em pensamentos criativos e inovadores.;118;Abertura;Imaginação Criativa
+i119;bf_br119;O_ima;1;Gosto de experimentar novas ideias e abordagens.;119;Abertura;Curiosidade Intelectual
+i120;bf_br120;O_ima;1;A imaginação é uma parte importante da minha vida.;120;Abertura;Imaginação Criativa

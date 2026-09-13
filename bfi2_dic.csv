@@ -1,0 +1,61 @@
+﻿item;coditem;scale;pole;txt_item;ordem;ordem_fac
+2;bfi2_02;A_com;1;Tenho compaixão, um coração mole;2;4
+32;bfi2_32;A_com;1;Me preocupo com os outros e gosto de ajudá-los;32;4
+17;bfi2_17;A_com;0;Pouco me importo com os outros;17;4
+47;bfi2_47;A_com;0;Posso ser indiferente, frio e distante dos outros;47;4
+27;bfi2_27;A_con;1;Tenho a tendência de perdoar as pessoas;27;6
+57;bfi2_57;A_con;1;Acredito na bondade das pessoas;57;6
+12;bfi2_12;A_con;0;Costumo achar defeitos nos outros;12;6
+42;bfi2_42;A_con;0;"Costumo duvidar das ""boas intenções"" dos outros";42;6
+7;bfi2_07;A_res;1;Trato as pessoas com respeito;7;5
+52;bfi2_52;A_res;1;Sou educado e gentil com as pessoas;52;5
+22;bfi2_22;A_res;0;Costumo contestar as pessoas;22;5
+37;bfi2_37;A_res;0;Às vezes, sou mal-educado com os outros;37;5
+18;bfi2_18;C_org;1;Sou organizado, gosto de manter as coisas em ordem;18;7
+33;bfi2_33;C_org;1;Mantenho as coisas limpas e arrumadas ;33;7
+3;bfi2_03;C_org;0;Costumo ser desorganizado;3;7
+48;bfi2_48;C_org;0;Deixo as coisas bagunçadas, sem limpar;48;7
+38;bfi2_38;C_pro;1;Faço as tarefas bem e sem desperdício de tempo;38;8
+53;bfi2_53;C_pro;1;Sou persistente, me dedico às tarefas até que estejam terminadas;53;8
+8;bfi2_08;C_pro;0;Costumo ser preguiçoso;8;8
+23;bfi2_23;C_pro;0;Tenho dificuldade para começar as tarefas;23;8
+13;bfi2_13;C_res;1;Sou responsável, faço minha parte do trabalho;13;9
+43;bfi2_43;C_res;1;Sou uma pessoa comprometida, os outros podem contar comigo;43;9
+28;bfi2_28;C_res;0;Sou meio desleixado, não tenho cuidado na hora de fazer as coisas;28;9
+58;bfi2_58;C_res;0;Às vezes, comporto-me de forma irresponsável;58;9
+6;bfi2_06;E_ass;1;Falo sobre minha opinião, mesmo que seja diferente das outras pessoas;6;2
+21;bfi2_21;E_ass;1;Assumo com facilidade a posição de liderança, de poder;21;2
+36;bfi2_36;E_ass;0;Acho difícil influenciar as pessoas;36;2
+51;bfi2_51;E_ass;0;Prefiro que os outros tomem as decisões;51;2
+41;bfi2_41;E_ene;1;Sou cheio de energia;41;3
+56;bfi2_56;E_ene;1;Demonstro muito entusiasmo;56;3
+11;bfi2_11;E_ene;0;Raramente sinto-me empolgado ou com muitas expectativas sobre algo;11;3
+26;bfi2_26;E_ene;0;Sou menos ativo do que outras pessoas;26;3
+1;bfi2_01;E_soc;1;Sou extrovertido, sociável;1;1
+46;bfi2_46;E_soc;1;Sou falante;46;1
+16;bfi2_16;E_soc;0;Costumo ser quieto;16;1
+31;bfi2_31;E_soc;0;Sou tímido, inibido;31;1
+19;bfi2_19;N_ans;1;Sou meio tenso ;19;10
+34;bfi2_34;N_ans;1;Eu me preocupo demais com tudo;34;10
+4;bfi2_04;N_ans;0;Sou calmo, e controlo bem meu estresse;4;10
+49;bfi2_49;N_ans;0;Dificilmente me sinto nervoso ou com medo;49;10
+39;bfi2_39;N_dep;1;Com frequência, sinto-me triste;39;11
+54;bfi2_54;N_dep;1;Com frequência sinto-me deprimido, triste;54;11
+9;bfi2_09;N_dep;0;Mantenho meu otimismo mesmo depois de uma experiência ruim;9;11
+24;bfi2_24;N_dep;0;Sinto-me confiante, satisfeito com quem eu sou;24;11
+14;bfi2_14;N_lab;1;Meu humor varia com muita rapidez, facilmente fico mal-humorado;14;12
+59;bfi2_59;N_lab;1;Sou nervoso, fico irritado com facilidade;59;12
+29;bfi2_29;N_lab;0;Sou emocionalmente estável, dificilmente fico irritado;29;12
+44;bfi2_44;N_lab;0;Consigo controlar minhas emoções;44;12
+10;bfi2_10;O_cur;1;Tenho curiosidade sobre muitos assuntos diferentes;10;13
+40;bfi2_40;O_cur;1;Gosto de pensar profundamente sobre as coisas ;40;13
+25;bfi2_25;O_cur;0;Evito discussões intelectuais e filosóficas;25;13
+55;bfi2_55;O_cur;0;Tenho pouco interesse por ideias abstratas;55;13
+20;bfi2_20;O_sen;1;Admiro a arte, música ou literatura;20;14
+35;bfi2_35;O_sen;1;Dou valor à arte e à beleza ;35;14
+5;bfi2_05;O_sen;0;Tenho poucos interesses artísticos;5;14
+50;bfi2_50;O_sen;0;Acho chato teatro e poesia;50;14
+15;bfi2_15;O_ima;1;Sou inventivo, descubro maneiras mais espertas de fazer as coisas;15;15
+60;bfi2_60;O_ima;1;Sou original, tenho ideias novas;60;15
+30;bfi2_30;O_ima;0;Tenho pouca criatividade;30;15
+45;bfi2_45;O_ima;0;Tenho dificuldade para imaginar coisas novas;45;15
